@@ -47,3 +47,16 @@ img {
   border: 8px solid white;
   
 }
+
+li {
+  padding: 4px;
+}
+
+.item-lista{
+  text-decoration: none;
+
+}
+
+.item-lista:hover{
+  font-size: 120%;
+}
